@@ -47,5 +47,18 @@
         unset($word);
       ?>
     </p>
+    <p>
+      <?php
+        echo "My first line of PHP!"; 
+
+        $items = 4;
+        if($items < 5) {
+          echo "You get a 10% discount!";
+        }
+
+        
+      ?>
+    </p>
+
   </body>
 </html>
