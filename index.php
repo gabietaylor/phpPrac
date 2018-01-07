@@ -58,6 +58,12 @@
             echo "You get a 5% discount!";
         }
 
+        $myAge = 22;
+        if($myAge < 21) {
+            echo "Sorry!";
+            } else {
+                echo "Shots!";
+                }
 
       ?>
     </p>
