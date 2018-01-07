@@ -26,10 +26,17 @@
 
 ## Comparisons
 
-### 
+### List of comparison operators:
 
-### 
+..* > Greater than
+..* < Less than
+..* <= Less than or equal to
+..* >= Greater than or equal to
+..* == Equal to
+..* != Not equal to
 
-### 
+### An if statement is made up of the `if` keyword, a condition like we've seen before, and a pair of curly braces `{ }`. If the answer to the condition is yes, the code inside the curly braces will run.
+
+### If the condition is true, then only the code inside the first pair of curly braces will run. Otherwise, the condition is `false`, so only the code inside the second pair of curly braces after the `else` keyword will run.
 
 ### 
